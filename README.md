@@ -1,4 +1,5 @@
 # kiosk-mode
+This is the original project from Maykar. I've made no changes and can't do any improvements...
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-yellow.svg)](https://github.com/custom-components/hacs) [![hacs_badge](https://img.shields.io/badge/Buy-Me%20a%20Coffee-critical)](https://www.buymeacoffee.com/FgwNR2l)
 
